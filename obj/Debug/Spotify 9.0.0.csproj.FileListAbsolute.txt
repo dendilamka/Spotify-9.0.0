@@ -1,0 +1,34 @@
+C:\Users\Daniel\source\repos\Spotify 9.0.0\bin\Debug\Spotify 9.0.0.exe.config
+C:\Users\Daniel\source\repos\Spotify 9.0.0\bin\Debug\Spotify 9.0.0.exe
+C:\Users\Daniel\source\repos\Spotify 9.0.0\bin\Debug\Spotify 9.0.0.pdb
+C:\Users\Daniel\source\repos\Spotify 9.0.0\bin\Debug\Guna.UI2.dll
+C:\Users\Daniel\source\repos\Spotify 9.0.0\obj\Debug\Spotify 9.0.0.csproj.AssemblyReference.cache
+C:\Users\Daniel\source\repos\Spotify 9.0.0\obj\Debug\Spotify_9._0._0.Form1.resources
+C:\Users\Daniel\source\repos\Spotify 9.0.0\obj\Debug\Spotify_9._0._0.Properties.Resources.resources
+C:\Users\Daniel\source\repos\Spotify 9.0.0\obj\Debug\Spotify 9.0.0.csproj.GenerateResource.cache
+C:\Users\Daniel\source\repos\Spotify 9.0.0\obj\Debug\Spotify 9.0.0.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\Spotify 9.0.0\obj\Debug\Spotify 9.0.0.csproj.CopyComplete
+C:\Users\Daniel\source\repos\Spotify 9.0.0\obj\Debug\Spotify 9.0.0.exe
+C:\Users\Daniel\source\repos\Spotify 9.0.0\obj\Debug\Spotify 9.0.0.pdb
+C:\Users\Daniel\source\repos\Spotify 9.0.0\obj\Debug\Spotify_9._0._0.Form2.resources
+C:\Users\Daniel\source\repos\Spotify 9.0.0\obj\Debug\Spotify_9._0._0.Form3.resources
+C:\Users\Daniel\source\repos\Spotify 9.0.0\obj\Debug\Spotify_9._0._0.Form4.resources
+C:\Users\Daniel\source\repos\Spotify 9.0.0\obj\Debug\Spotify_9._0._0.Form5.resources
+D:\Škola\C# Projekt\Spotify 9.0.0\bin\Debug\Spotify 9.0.0.exe.config
+D:\Škola\C# Projekt\Spotify 9.0.0\bin\Debug\Spotify 9.0.0.exe
+D:\Škola\C# Projekt\Spotify 9.0.0\bin\Debug\Spotify 9.0.0.pdb
+D:\Škola\C# Projekt\Spotify 9.0.0\obj\Debug\Spotify 9.0.0.csproj.AssemblyReference.cache
+D:\Škola\C# Projekt\Spotify 9.0.0\obj\Debug\Spotify_9._0._0.Form1.resources
+D:\Škola\C# Projekt\Spotify 9.0.0\obj\Debug\Spotify_9._0._0.Form2.resources
+D:\Škola\C# Projekt\Spotify 9.0.0\obj\Debug\Spotify_9._0._0.Form3.resources
+D:\Škola\C# Projekt\Spotify 9.0.0\obj\Debug\Spotify_9._0._0.Form4.resources
+D:\Škola\C# Projekt\Spotify 9.0.0\obj\Debug\Spotify_9._0._0.Form5.resources
+D:\Škola\C# Projekt\Spotify 9.0.0\obj\Debug\Spotify_9._0._0.Properties.Resources.resources
+D:\Škola\C# Projekt\Spotify 9.0.0\obj\Debug\Spotify 9.0.0.csproj.GenerateResource.cache
+D:\Škola\C# Projekt\Spotify 9.0.0\obj\Debug\Spotify 9.0.0.csproj.CoreCompileInputs.cache
+D:\Škola\C# Projekt\Spotify 9.0.0\obj\Debug\Spotify 9.0.0.csproj.CopyComplete
+D:\Škola\C# Projekt\Spotify 9.0.0\obj\Debug\Spotify 9.0.0.exe
+D:\Škola\C# Projekt\Spotify 9.0.0\obj\Debug\Spotify 9.0.0.pdb
+D:\Škola\C# Projekt\Spotify 9.0.0\obj\Debug\Spotify_9._0._0.Form6.resources
+D:\škola\C# Projekt\Spotify 9.0.0\bin\Debug\Guna.UI2.dll
+D:\škola\C# Projekt\Spotify 9.0.0\obj\Debug\Spotify_9._0._0.Form7.resources
